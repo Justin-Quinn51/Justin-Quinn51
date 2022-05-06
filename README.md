@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Quinn</h1>
-<h3 align="center">A frontend developer from New York with a penchant for solving puzzles, and an enduring love of learning.</h3>
+<h3 align="center">A Full-Stack Software Engineer from New York with a penchant for solving puzzles, and an enduring love of learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin-quinn51&label=Profile%20views&color=0e75b6&style=flat" alt="justin-quinn51" /> </p>
 
