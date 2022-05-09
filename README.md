@@ -31,10 +31,10 @@
   <img align="center" width='43%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Quinn51&&theme=calm&layout=compact" />
 </a>
 <a href="https://github.com/Justin-Quinn51/convoychat">
-  <img align="center" width='50%' src="https://github-readme-stats.vercel.app/api?username=Justin-Quinn51&show_icons=true&theme=calm&hide=issues"](https://github.com/Justin-Quinn51/github-readme-stats" />
+  <img align="center" width='50%' src="https://github-readme-stats.vercel.app/api?username=Justin-Quinn51&show_icons=true&theme=calm&hide=issues"/>
 </a>
 <a href='https://github.com/Justin-Quinn51'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justin-quinn51" alt="justin-quinn51"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Quinn51&"/>
 </a>
 </p>
 
@@ -53,17 +53,13 @@
 </p>
 
                                                                                                    
-<!-- Code for arranging repo cards side by side-->
+<!-- Code for arranging repo cards side by side
 <a href="https://github.com/Justin-Quinn51/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Justin-Quinn51&show_icons=true&theme=maroongold&hide=stars,issues" />
 </a>
 <a href="https://github.com/Justin-Quinn51/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Quinn51&&theme=maroongold" />
 </a>
--->
+-->                                                                                                                          
+                                                                                                                           
 
-<!--Profile Counter-->
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=justin-quinn51&label=Profile%20views&color=0e75b6&style=flat" alt="justin-quinn51" /> </p> 
-<!--Twitter Follower Count-->
-<p>
-  <a href="https://twitter.com/justinquinn_" target="blank" align='right'><img src="https://img.shields.io/twitter/follow/justinquinn_?logo=twitter&style=for-the-badge" alt="justinquinn_"></a> </p> -->
