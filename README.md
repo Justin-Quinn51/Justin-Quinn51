@@ -3,18 +3,21 @@
 
 <!--Socials-->
 <p align='middle'>
- <a href='https://angel.co/u/justin-quinn-3' target=_blank>
+ <a href='https://angel.co/u/justin-quinn-3' target='_blank'>
   <img src='https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white' height='30' width='100'/>
  </a>
- <a href='https://dev.to/justinquinn51' target=_blank>
+ <a href='https://dev.to/justinquinn51' target='_blank'>
   <img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white' height= '30' width='100'/>
  </a>
- <a href='https://www.linkedin.com/in/justin-quinn-/' target=_blank>
+ <a href='https://www.linkedin.com/in/justin-quinn-/' target='_blank'>
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' height= '30' width='100'/>
  </a>
- <a href='https://twitter.com/JustinQuinn_' target=_blank>
+ <a href='https://twitter.com/JustinQuinn_' target='_blank'>
   <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' height= '30' width='100'/>
  </a>
+ <a href="https://justinquinn.dev/" target='_blank'>
+  <img src="https://replit-badge.vercel.app/api?id=143059&theme=dark&border=square&featuredOn=Visit%20My&replTalk=Website&font=Source%20Sans%20Pro" alt="Repl Talk Badge" height='30' width='100'>
+</a>
 </p>
 
 <br>
