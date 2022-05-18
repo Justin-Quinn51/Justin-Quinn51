@@ -23,7 +23,7 @@
 <br>
 
 <!--Greeting-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=00FFFF&lines=Hi+,+I'm+Justin+Quinn.;+A+Full+Stack+Web+developer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=00FFFF&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
 
 <br>
 
