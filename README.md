@@ -23,9 +23,7 @@
 <br>
 
 <!--Greeting-->
-<p align="center">
- Hi 👋, I'm Justin! A Full-Stack Software Engineer from New York with a penchant for solving puzzles, and an enduring love of learning.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=00FFFF&lines=Hi+,+I'm+Justin+Quinn.;+A+Full+Stack+Web+developer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
 
 <br>
 
@@ -93,6 +91,7 @@
 </table>
 </div> --> 
 
+<!--Data & Analytics-->
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
 <table>
@@ -107,7 +106,7 @@
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=Justin-Quinn51&bg_color=000000&color=ffffff&line=00ffff&point=ff33cc&hide_border=true&area=ff33cc">
 
-<!--Technologies-->
+<!--Technologies & Tools-->
 <br>
 <h2 align="center">Technologies & Tools</h2>
 
