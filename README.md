@@ -112,6 +112,7 @@
 
 <p align='middle'>
   <img src='https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff33cc'/>
+  <img src='https://img.shields.io/badge/Express.js-00ffff?style=for-the-badge&logo=express&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/HTML5-00ffff?style=for-the-badge&logo=html5&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/MySQL-00ffff?style=for-the-badge&logo=mysql&logoColor=ff33cc'/>
