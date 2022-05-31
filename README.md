@@ -17,7 +17,7 @@
 <br>
 
 <!--Greeting-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=00FFFF&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=ff33cc&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
 
 <br>
 
@@ -111,7 +111,7 @@
   <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=ff33cc'/>
-  <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=mysql&logoColor=ff33cc'/>
+  <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=PostgreSql&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/React_Native-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
 </p>
