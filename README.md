@@ -3,20 +3,14 @@
 
 <!--Socials-->
 <p align='middle'>
- <a href='https://angel.co/u/justin-quinn-3' target='_blank'>
-  <img src='https://img.shields.io/badge/AngelList-57006b?style=for-the-badge&logo=AngelList&logoColor=white' height='30' width='100'/>
- </a>
- <a href='https://dev.to/justinquinn51' target='_blank'>
-  <img src='https://img.shields.io/badge/dev.to-e6d295?style=for-the-badge&logo=devdotto&logoColor=white' height= '30' width='100'/>
- </a>
  <a href='https://www.linkedin.com/in/justin-quinn-/' target='_blank'>
-  <img src='https://img.shields.io/badge/LinkedIn-2440e1?style=for-the-badge&logo=linkedin&logoColor=white' height= '30' width='100'/>
+  <img src='https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=ff33cc' height= '30' width='100'/>
  </a>
  <a href='https://twitter.com/JustinQuinn_' target='_blank'>
-  <img src='https://img.shields.io/badge/Twitter-e92578?style=for-the-badge&logo=twitter&logoColor=white' height= '30' width='100'/>
+  <img src='https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=ff33cc' height= '30' width='100'/>
  </a>
  <a href="https://justinquinn.dev/" target='_blank'>
-  <img src="https://img.shields.io/badge/Website-D83B01?style=for-the-badge&logo=&logoColor=white" alt="Repl Talk Badge" height='30' width='100'>
+  <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc" alt="Repl Talk Badge" height='30' width='100'>
 </a>
 </p>
 
