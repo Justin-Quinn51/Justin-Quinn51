@@ -114,6 +114,7 @@
   <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=PostgreSql&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/React_Native-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
+  <img src='https://img.shields.io/badge/Tailwind-00ffff?style=for-the-badge&logo=tailwindcss&logoColor=ff33cc'/>
 </p>
 
                                                                                                    
