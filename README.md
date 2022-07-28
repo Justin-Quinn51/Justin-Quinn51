@@ -10,7 +10,7 @@
   <img src='https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=ff33cc' height= '30' width='100'/>
  </a>
  <a href="https://justinquinn.dev/" target='_blank'>
-  <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc" alt="Repl Talk Badge" height='30' width='100'>
+  <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc" alt="Repl Talk Badge" height='30' width='100'>
 </a>
 </p>
 
@@ -19,7 +19,90 @@
 <!--Greeting-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=ff33cc&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
 
-<br>
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Star Trek Field Guide</h3>
+        <br />
+        <a target="_blank" href="https://star-trek-federation-field-guide.netlify.app">
+            <a href="https://imgur.com/Jns6ewW"><img src="https://i.imgur.com/Jns6ewW.gif" title="source: imgur.com"  width="100%" alt="Star Trek App" /></a>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Justin-Quinn51/Star-Trek-App" target="_blank">
+    <img src='https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc'/>
+  </a>  
+  <a href="https://star-trek-federation-field-guide.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
+  </a>
+      </p>
+     <br />
+        <p><strong>MongoDB, Express, Node.js, Javascript</strong> - An interactive Star Trek app for all of the "Trekkies" out there, featuring the Starship dashboard. It allows users to find out more interesting facts about the various species that inhabit the universe.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">To Do List</h3>
+        <br />
+      <a target="_blank" href="https://todo-list-tasks-app.herokuapp.com/">
+            <a href="https://imgur.com/inAUQym"><img src="https://i.imgur.com/inAUQym.gif" title="source: imgur.com" /></a>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Justin-Quinn51/Todo-Crud-App" target="_blank">
+    <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
+  </a>
+  <a href="https://todo-list-tasks-app.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
+  </a>
+      </p>
+     <br />
+        <p><strong>MongoDB, Express, Node.js, EJS</strong> - Everyone's favorite "To Do List" App, helping you stay out of trouble with your significant other.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">justinquinn.dev</h3>
+      <br />
+        <a target="_blank" href="https://justinquinn.dev">
+         <a href="https://imgur.com/c5JGLhK"><img src="https://i.imgur.com/c5JGLhK.gif" title="source: imgur.com" width="100%" alt="Portfolio"/></a> 
+        </a>
+      <br />
+      <p align="center">
+  <a href="https://github.com/Justin-Quinn51/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
+  </a>
+  <a href="http://justinquinn.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
+  </a>
+      </p>
+     <br />
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Workout Buddy</h3>
+        <br />
+        <a target="_blank" href="https://my-fitness-goals.herokuapp.com/">
+          <a href="https://imgur.com/JBXm1Su"><img src="https://i.imgur.com/JBXm1Su.gif" title="source: imgur.com" width="100%" alt="Workout Buddy" />
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Justin-Quinn51/MERN-Practice" target="_blank">
+    <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
+  </a>
+  <a href="https://my-fitness-goals.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
+  </a>
+      </p>
+     <br />
+     <p><strong>MongoDB, Express, React, Node.js</strong> - A Full Stack MERN application which helps gym rats and newbies alike achieve their fitness goals. Users can track their progress by recording various different exercises, weights used, and rep ranges. 
+    </td>
+  </tr>
+</table>
 
 <!--Projects-->
 <!-- <br>
@@ -45,6 +128,44 @@
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> -</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">In Progress</h3>
+        <br />
+      <a target="_blank" href=#">
+            <img src="#" width="100%" alt="#"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript -</strong></p>
+    </td>
+                                                                                                                                     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">In Progress</h3>
+        <br />
+      <a target="_blank" href=#">
+            <img src="#" width="100%" alt="#"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript -</strong></p>
+    </td>
+       </td>
     <td width="50%" valign="top">
       <h3 align="center">In Progress</h3>
         <br />
