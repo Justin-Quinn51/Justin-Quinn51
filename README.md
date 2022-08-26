@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h3 align="center">To Do List</h3>
         <br />
-      <a target="_blank" href="https://todo-list-tasks-app.herokuapp.com/">
+      <a target="_blank" href="https://todo-list-mvc.fly.dev/">
             <a href="https://imgur.com/inAUQym"><img src="https://i.imgur.com/inAUQym.gif" title="source: imgur.com" /></a>
         </a>
         <br />
@@ -54,7 +54,7 @@
   <a href="https://github.com/Justin-Quinn51/Todo-Crud-App" target="_blank">
     <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
   </a>
-  <a href="https://todo-list-tasks-app.herokuapp.com/" target="_blank">
+  <a href="https://todo-list-mvc.fly.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
   </a>
       </p>
@@ -85,7 +85,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Workout Buddy</h3>
         <br />
-        <a target="_blank" href="https://my-fitness-goals.herokuapp.com/">
+        <a target="_blank" href="https://workout-tracker.fly.dev/">
           <a href="https://imgur.com/JBXm1Su"><img src="https://i.imgur.com/JBXm1Su.gif" title="source: imgur.com" width="100%" alt="Workout Buddy" />
         </a>
         <br />
@@ -94,7 +94,7 @@
   <a href="https://github.com/Justin-Quinn51/MERN-Practice" target="_blank">
     <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
   </a>
-  <a href="https://my-fitness-goals.herokuapp.com/" target="_blank">
+  <a href="https://workout-tracker.fly.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
   </a>
       </p>
