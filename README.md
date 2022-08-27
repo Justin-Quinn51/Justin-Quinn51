@@ -51,7 +51,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/Justin-Quinn51/Todo-Crud-App" target="_blank">
+  <a href="https://github.com/Justin-Quinn51/Todo-List-MVC" target="_blank">
     <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
   </a>
   <a href="https://todo-list-mvc.fly.dev/" target="_blank">
