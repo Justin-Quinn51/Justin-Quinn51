@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src='https://i.imgur.com/Pw4AbR7.png'/>
+<img src='https://imgur.com/itG728l.png'/>
 
 <!--Socials-->
 <p align='middle'>
