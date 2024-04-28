@@ -65,9 +65,9 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">justinquinn.dev</h3>
+      <h3 align="center">justinpquinn.com</h3>
       <br />
-        <a target="_blank" href="https://justinquinn.dev">
+        <a target="_blank" href="https://justinpquinn.com">
          <a href="https://imgur.com/c5JGLhK"><img src="https://i.imgur.com/c5JGLhK.gif" title="source: imgur.com" width="100%" alt="Portfolio"/></a> 
         </a>
       <br />
