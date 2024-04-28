@@ -9,7 +9,7 @@
  <a href='https://twitter.com/JustinQuinn_' target='_blank'>
   <img src='https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=ff33cc' height= '30' width='100'/>
  </a>
- <a href="https://justinquinn.dev/" target='_blank'>
+ <a href="https://justinpquinn.com/" target='_blank'>
   <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc" alt="Repl Talk Badge" height='30' width='100'>
 </a>
 </p>
@@ -232,6 +232,7 @@
   <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=ff33cc'/>
+  <img src='https://img.shields.io/badge/TypeScript-00ffff?style=for-the-badge&logo=typescript&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=PostgreSql&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Tailwind-00ffff?style=for-the-badge&logo=tailwindcss&logoColor=ff33cc'/>
