@@ -75,7 +75,7 @@
   <a href="https://github.com/Justin-Quinn51/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Github-00ffff?style=for-the-badge&logo=github&logoColor=ff33cc"/>
   </a>
-  <a href="http://justinquinn.dev" target="_blank">
+  <a href="http://justinpquinn.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc"/>
   </a>
       </p>
