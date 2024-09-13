@@ -1,13 +1,13 @@
 <!--Banner-->
-<img src='https://imgur.com/itG728l.png'/>
+<img src='https://i.imgur.com/doiFOhW.png'/>
 
 <!--Socials-->
 <p align='middle'>
  <a href='https://www.linkedin.com/in/justin-quinn-/' target='_blank'>
   <img src='https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=ff33cc' height= '30' width='100'/>
  </a>
- <a href='https://twitter.com/JustinQuinn_' target='_blank'>
-  <img src='https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=ff33cc' height= '30' width='100'/>
+ <a href='https://x.com/JustinQuinn_' target='_blank'>
+  <img src='https://img.shields.io/badge/X_Account-00ffff?style=for-the-badge&logo=x&logoColor=ff33cc' height= '30' width='100'/>
  </a>
  <a href="https://justinpquinn.com/" target='_blank'>
   <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=firefox&logoColor=ff33cc" alt="Repl Talk Badge" height='30' width='100'>
@@ -219,7 +219,6 @@
  </tr>
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=Justin-Quinn51&bg_color=000000&color=ffffff&line=00ffff&point=ff33cc&hide_border=true&area=ff33cc">
 
 <!--Technologies & Tools-->
 <br>
@@ -230,6 +229,7 @@
   <img src='https://img.shields.io/badge/Express.js-00ffff?style=for-the-badge&logo=express&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/HTML5-00ffff?style=for-the-badge&logo=html5&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/>
+  <img src='https://img.shields.io/badge/Next.js-00ffff?style=for-the-badge&logo=next.js&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/TypeScript-00ffff?style=for-the-badge&logo=typescript&logoColor=ff33cc'/>
