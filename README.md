@@ -225,15 +225,15 @@
 <h2 align="center">Technologies & Tools</h2>
 
 <p align='middle'>
-  <img src='https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff33cc'/>
-  <img src='https://img.shields.io/badge/Express.js-00ffff?style=for-the-badge&logo=express&logoColor=ff33cc'/>
-  <img src='https://img.shields.io/badge/HTML5-00ffff?style=for-the-badge&logo=html5&logoColor=ff33cc'/>
-  <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/>
+<!--   <img src='https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff33cc'/> -->
+<!--   <img src='https://img.shields.io/badge/Express.js-00ffff?style=for-the-badge&logo=express&logoColor=ff33cc'/> -->
+<!--   <img src='https://img.shields.io/badge/HTML5-00ffff?style=for-the-badge&logo=html5&logoColor=ff33cc'/> -->
+<!--   <img src='https://img.shields.io/badge/MongoDB-00ffff?style=for-the-badge&logo=mongodb&logoColor=ff33cc'/> -->
   <img src='https://img.shields.io/badge/Next.js-00ffff?style=for-the-badge&logo=next.js&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Node.js-00ffff?style=for-the-badge&logo=nodedotjs&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/TypeScript-00ffff?style=for-the-badge&logo=typescript&logoColor=ff33cc'/>
-  <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=PostgreSql&logoColor=ff33cc'/>
+<!--   <img src='https://img.shields.io/badge/PostgreSQL-00ffff?style=for-the-badge&logo=PostgreSql&logoColor=ff33cc'/> -->
   <img src='https://img.shields.io/badge/React-00ffff?style=for-the-badge&logo=react&logoColor=ff33cc'/>
   <img src='https://img.shields.io/badge/Tailwind-00ffff?style=for-the-badge&logo=tailwindcss&logoColor=ff33cc'/>
 </p>
