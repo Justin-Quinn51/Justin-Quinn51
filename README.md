@@ -17,7 +17,9 @@
 <br>
 
 <!--Greeting-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=ff33cc&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg)
+<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitter&size=19&center=true&vCenter=true&width=1000&height=50&color=ff33cc&lines=Hi+,+I'm+Justin+Quinn.;+A+full+stack+software+engineer+with+a+penchant+for+solving+puzzles,;+and+an+enduring+love+of+learning.)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&duration=3000&pause=1000&color=FF33CC&center=true&vCenter=true&width=1000&lines=I'm+a+full+stack+developer%2C+specializing+in+JavaScript%2C+React%2C+and+Node.js;My+current+interests+include+TypeScript%2C+Next.js+and+Tailwind.;I+have+two+years+of+development+experience%2C;where+I+have+worked+on+applications+in+the+ad+tech+industry%2C;as+well+as+built+websites+for+small+businesses.)](https://git.io/typing-svg)
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
